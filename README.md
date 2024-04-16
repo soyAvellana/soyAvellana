@@ -2,7 +2,7 @@
 
 👀 I’m interested in exploring new technologies, learning languages, and creating meaningful projects.
 
-🌱 I’m currently learning frontend web development, including front-end frameworks like React and back-end technologies like Node.js
+🌱 I’m currently learning frontend web development, including front-end frameworks like React 
 
 💞️ I’m looking to collaborate on open-source projects, hackathons, or any innovative ideas that align with my interests.
 
