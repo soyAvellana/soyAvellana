@@ -9,7 +9,7 @@
 
 ### 🤝 Open for:
 - 🚀 Collaborations on **open-source**, hackathons or innovative side projects
-- 💬 Conversations about tech, travel, or tacos 🌮
+- 💬 Conversations about tech, travel, or deaf community 
 
 ### 📫 Let's connect:
 - 📧 Email: [hazelhmrcu@live.de](mailto:hazelhmrcu@live.de)
