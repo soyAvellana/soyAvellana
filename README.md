@@ -14,6 +14,7 @@
 ### 📫 Let's connect:
 - 📧 Email: [hazelhmrcu@live.de](mailto:hazelhmrcu@live.de)
 - 📸 Instagram: [@soy.avellana](https://www.instagram.com/soy.avellana)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hazel-hamurcu)
 
 ### ⚡ Fun fact:
 If I'm not coding or learning languages, you'll probably find me planning my next trip or hunting down the best coffee ☕ in town.
