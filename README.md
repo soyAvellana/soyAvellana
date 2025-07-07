@@ -1,17 +1,23 @@
-👋 Hi, I’m @soyAvellana
+# 👋 Hey there, I'm Hazel (@soyAvellana)
 
-👀 I’m interested in exploring new technologies, learning languages, and creating meaningful projects.
+💻 Passionate about building beautiful, user-friendly websites and constantly exploring new tech.
 
-🌱 I’m currently learning frontend web development, including front-end frameworks like React 
+### ✨ What I'm into:
+- 🎨 Frontend Development (currently diving into **React** & modern web tools)
+- 🌍 Languages & Cultures (I speak **6 languages** and love exploring new corners of the world)
+- 💡 Creative, meaningful projects that make the web a better place
 
-💞️ I’m looking to collaborate on open-source projects, hackathons, or any innovative ideas that align with my interests.
+### 🤝 Open for:
+- 🚀 Collaborations on **open-source**, hackathons or innovative side projects
+- 💬 Conversations about tech, travel, or tacos 🌮
 
-📫 You can reach me via email at hazelhmrcu@live.de or connect with me on Instagram @soy.Avellana
+### 📫 Let's connect:
+- 📧 Email: [hazelhmrcu@live.de](mailto:hazelhmrcu@live.de)
+- 📸 Instagram: [@soy.avellana](https://www.instagram.com/soy.avellana)
 
-😄 Pronouns: She/Her
+### ⚡ Fun fact:
+If I'm not coding or learning languages, you'll probably find me planning my next trip or hunting down the best coffee ☕ in town.
 
-⚡ Fun fact: I speak 6 languages fluently and I love to travel, exploring new cultures and cuisines along the way.
-<!---
-soyAvellana/soyAvellana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+_“Code, connect, explore — repeat.”_
